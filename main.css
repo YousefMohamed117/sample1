@@ -157,7 +157,7 @@ svg {
   justify-content: center;
   flex-direction: column;
   color: #fff;
-  padding: 58px 20px;
+  padding: 48px 20px;
   font-family: Arial;
 }
 @media (max-width: 700px) {
